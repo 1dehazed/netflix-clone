@@ -1,3 +1,3 @@
 # netflix-clone
 this is a netflix clone <3
-open 
+open index.html
